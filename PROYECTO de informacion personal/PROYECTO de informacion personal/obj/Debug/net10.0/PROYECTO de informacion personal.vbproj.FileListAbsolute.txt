@@ -1,0 +1,15 @@
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\bin\Debug\net10.0\PROYECTO de informacion personal.exe
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\bin\Debug\net10.0\PROYECTO de informacion personal.deps.json
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\bin\Debug\net10.0\PROYECTO de informacion personal.runtimeconfig.json
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\bin\Debug\net10.0\PROYECTO de informacion personal.dll
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\bin\Debug\net10.0\PROYECTO de informacion personal.pdb
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\PROYECTO de informacion personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\PROYECTO de informacion personal.AssemblyInfoInputs.cache
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\PROYECTO de informacion personal.AssemblyInfo.vb
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\PROYECTO de informacion personal.vbproj.CoreCompileInputs.cache
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\PROYECTO de informacion personal.dll
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\refint\PROYECTO de informacion personal.dll
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\PROYECTO de informacion personal.pdb
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\PROYECTO de informacion personal.genruntimeconfig.cache
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\ref\PROYECTO de informacion personal.dll
+C:\Users\Derex\source\repos\PROYECTO de informacion personal\PROYECTO de informacion personal\obj\Debug\net10.0\PROYECTO.D82D474F.Up2Date

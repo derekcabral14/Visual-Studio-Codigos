@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Derex\\source\\repos\\PROYECTO de informacion personal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{607B6E17-E694-7D1C-0478-CB5C96335291}|PROYECTO de informacion personal\\PROYECTO de informacion personal.vbproj|c:\\users\\derex\\source\\repos\\proyecto de informacion personal\\proyecto de informacion personal\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{607B6E17-E694-7D1C-0478-CB5C96335291}|PROYECTO de informacion personal\\PROYECTO de informacion personal.vbproj|solutionrelative:proyecto de informacion personal\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Derex\\source\\repos\\PROYECTO de informacion personal\\PROYECTO de informacion personal\\Program.vb",
+              "RelativeDocumentMoniker": "PROYECTO de informacion personal\\Program.vb",
+              "ToolTip": "C:\\Users\\Derex\\source\\repos\\PROYECTO de informacion personal\\PROYECTO de informacion personal\\Program.vb*",
+              "RelativeToolTip": "PROYECTO de informacion personal\\Program.vb*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-15T18:18:42.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

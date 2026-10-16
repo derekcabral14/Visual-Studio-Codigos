@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Derex\\source\\repos\\Act 8.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6A06C2-C5E5-49F6-A3A3-759962771293}|Act 8.4\\Act 8.4.vbproj|c:\\users\\derex\\source\\repos\\act 8.4\\act 8.4\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F6A06C2-C5E5-49F6-A3A3-759962771293}|Act 8.4\\Act 8.4.vbproj|solutionrelative:act 8.4\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Derex\\source\\repos\\Act 8.4\\Act 8.4\\Program.vb",
+              "RelativeDocumentMoniker": "Act 8.4\\Program.vb",
+              "ToolTip": "C:\\Users\\Derex\\source\\repos\\Act 8.4\\Act 8.4\\Program.vb",
+              "RelativeToolTip": "Act 8.4\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-14T15:16:23.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

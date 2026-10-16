@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Derex\\source\\repos\\Act 2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8994B9E1-03BC-404B-93E2-B61905E4FFC1}|Act 2.1\\Act 2.1.vbproj|c:\\users\\derex\\source\\repos\\act 2.1\\act 2.1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8994B9E1-03BC-404B-93E2-B61905E4FFC1}|Act 2.1\\Act 2.1.vbproj|solutionrelative:act 2.1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Derex\\source\\repos\\Act 2.1\\Act 2.1\\Program.vb",
+              "RelativeDocumentMoniker": "Act 2.1\\Program.vb",
+              "ToolTip": "C:\\Users\\Derex\\source\\repos\\Act 2.1\\Act 2.1\\Program.vb",
+              "RelativeToolTip": "Act 2.1\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-08T17:47:15.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
