@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Derex\\source\\repos\\Act 9.4\\Act 9.4\\Act 9.4.vbproj": {}
+    "C:\\Users\\Derex\\source\\repos\\Act 09.4\\Act 9.4\\Act 9.4.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Derex\\source\\repos\\Act 9.4\\Act 9.4\\Act 9.4.vbproj": {
+    "C:\\Users\\Derex\\source\\repos\\Act 09.4\\Act 9.4\\Act 9.4.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Derex\\source\\repos\\Act 9.4\\Act 9.4\\Act 9.4.vbproj",
+        "projectUniqueName": "C:\\Users\\Derex\\source\\repos\\Act 09.4\\Act 9.4\\Act 9.4.vbproj",
         "projectName": "Act 9.4",
-        "projectPath": "C:\\Users\\Derex\\source\\repos\\Act 9.4\\Act 9.4\\Act 9.4.vbproj",
+        "projectPath": "C:\\Users\\Derex\\source\\repos\\Act 09.4\\Act 9.4\\Act 9.4.vbproj",
         "packagesPath": "C:\\Users\\Derex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Derex\\source\\repos\\Act 9.4\\Act 9.4\\obj\\",
+        "outputPath": "C:\\Users\\Derex\\source\\repos\\Act 09.4\\Act 9.4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Derex\\AppData\\Roaming\\NuGet\\NuGet.Config",

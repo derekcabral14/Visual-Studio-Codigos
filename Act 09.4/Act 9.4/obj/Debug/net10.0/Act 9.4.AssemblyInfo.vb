@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Act 9.4"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+814b24ca26e5cc2639ea9aff3f798fd01f65b718"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Act 9.4"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Act 9.4"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

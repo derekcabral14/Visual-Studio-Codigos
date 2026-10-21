@@ -2,6 +2,7 @@ Imports System
 
 Module Program
     Sub Main(args As String())
+        Console.WriteLine("Ingrese tres notas para calcular el promedio:")
         Console.Write("Nota1:")
         Dim n1 As Integer = CInt(Console.ReadLine())
         Console.Write("Nota2:")
@@ -13,4 +14,4 @@ Module Program
         Console.WriteLine("Promedio: {0:F2}", prom)
         Console.ReadKey()
     End Sub
-End Module
+End Module 
