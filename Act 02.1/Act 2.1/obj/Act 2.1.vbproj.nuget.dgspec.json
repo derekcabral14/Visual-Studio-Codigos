@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Derex\\source\\repos\\Act 2.1\\Act 2.1\\Act 2.1.vbproj": {}
+    "C:\\Users\\Derex\\source\\repos\\Act 02.1\\Act 2.1\\Act 2.1.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Derex\\source\\repos\\Act 2.1\\Act 2.1\\Act 2.1.vbproj": {
+    "C:\\Users\\Derex\\source\\repos\\Act 02.1\\Act 2.1\\Act 2.1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Derex\\source\\repos\\Act 2.1\\Act 2.1\\Act 2.1.vbproj",
+        "projectUniqueName": "C:\\Users\\Derex\\source\\repos\\Act 02.1\\Act 2.1\\Act 2.1.vbproj",
         "projectName": "Act 2.1",
-        "projectPath": "C:\\Users\\Derex\\source\\repos\\Act 2.1\\Act 2.1\\Act 2.1.vbproj",
+        "projectPath": "C:\\Users\\Derex\\source\\repos\\Act 02.1\\Act 2.1\\Act 2.1.vbproj",
         "packagesPath": "C:\\Users\\Derex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Derex\\source\\repos\\Act 2.1\\Act 2.1\\obj\\",
+        "outputPath": "C:\\Users\\Derex\\source\\repos\\Act 02.1\\Act 2.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Derex\\AppData\\Roaming\\NuGet\\NuGet.Config",
