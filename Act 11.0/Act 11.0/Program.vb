@@ -4,12 +4,11 @@ Imports System
 Module Program
     Sub Main(args As String())
         Dim nota As Integer
-        Console.Write("Ingresa una nota del (0 a 100): ")
+        Console.WriteLine("Ingresa una nota del (0 a 100):")
         nota = Integer.Parse(Console.ReadLine())
         If nota > 100 OrElse nota < 0 Then
             Console.WriteLine("Nota inválida. Por favor, ingresa una nota entre 0 a 100 en la proxima vez.")
-        End If
-        If nota >= 90 Then
+        ElseIf nota >= 90 Then
             Console.ForegroundColor = ConsoleColor.Green
             Console.WriteLine(" A :D")
             Console.ResetColor()
@@ -30,5 +29,6 @@ Module Program
             Console.WriteLine(" F ;(")
             Console.ResetColor()
         End If
+        Console.ReadKey()
     End Sub
 End Module
